@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SimulCat. I'm creating a repository to support the technical side of the building and collaborating on simulation prefabs, and display models for #VRChat worlds that bring to life ideas related to the interface between classical and quantum theory. 
-- 🌱 I’m currently learning about how to put together computation and shaders that will streamline wave, crystal, and molecular scattering models.
+- 👋 Hi, I'm @SimulCat. I'm creating a repository for collaborating on simulations and prefabs for #VRChat worlds that bring ideas related to the interface between classical and quantum theory to life. 
+- 🌱 I'm learning to combine computation and shaders to streamline wave, crystal, and molecular scattering models.
 
 - 📫 How to reach me Discord: simucat, VRChat K_Cat.
-- ⚡ Fun fact: The particle probability distributions that are predicted by applying the Schrodinger equation to solve the double slit just evolve in free space exactly like particles undergoing classical 'Ballistic Diffusion'.
+- ⚡ Fun fact: The particle probability distributions that are predicted by applying the Schrodinger equation to solve the double slit evolve in free space exactly like particles scattering without interacting, a process known as 'Ballistic Diffusion'.
 
 ![Simulation of double slit pattern](https://simulcat.github.io/phasedemo/twinenergy.gif)
 
