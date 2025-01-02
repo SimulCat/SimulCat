@@ -4,7 +4,7 @@
 - 📫 How to reach me Discord: simucat, VRChat K_Cat.
 - ⚡ Fun fact: The particle probability distributions that are predicted by applying the Schrodinger equation to solve the double slit evolve in free space exactly like particles scattering without interacting, a process known as 'Ballistic Diffusion'.
 
-![Simulation of double slit pattern]([https://github.com/SimulCat/PhaseDemo/blob/main/.gif/twinenergy.gif](https://github.com/SimulCat/PhaseDemo/blob/main/.gifs/talbot.gif)
+![Simulated Double Slit Pattern](https://github.com/SimulCat/simulcat.github.io/blob/main/phasedemo/twinamplitude.gif)
 
 <!---
 SimulCat/SimulCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
