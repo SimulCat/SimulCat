@@ -1,4 +1,4 @@
--👋 Hi, these repositories are created to share and collaborate on assets used to create physics simulations for #VRChat worlds. 
+-👋 Hi, these repositories are created to share and collaborate on assets for physics simulations in Virtual/Mixed Reality, so far, for #VRChat (BIRP) and SomniumSpace (URP) worlds. 
 - The primary focus of my work is to develop simulations that work well in VR worlds in VRChat that are (preferably) accessible without the need for full PC VR.   
 - 📫 How to reach me Discord: simucat, VRChat K_Cat.
 - ⚡ Fun fact: The particle probability distributions that are predicted by applying the Schrodinger equation to solve the double slit evolve in free space exactly like particles scattering without interacting, a process known as 'Ballistic Diffusion'.
